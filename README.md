@@ -4,7 +4,7 @@
 
 **Goal**: Transition from Project Management to Junior ML Engineer by October 2026
 
-**Trello Boards**: [Link to your main Trello board for tasks/milestones]
+**Trello Boards**: https://trello.com/invite/b/67d62def12c1a0e8b47c9bf5/ATTI770022d567d50a7982e1205ba8ed215aD7154243/ml-engineer-career-transition
 
 ---
 
