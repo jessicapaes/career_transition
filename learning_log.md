@@ -4,7 +4,7 @@
 
 **Goal**: Transition from Project Management to Junior ML Engineer by October 2026
 
-**Trello Boards**: https://trello.com/invite/b/67d62def12c1a0e8b47c9bf5/ATTI770022d567d50a7982e1205ba8ed215aD7154243/ml-engineer-career-transition
+**Trello Boards**: [Link to your main Trello board for tasks/milestones]
 
 ---
 
@@ -65,6 +65,63 @@
 - [ ] Achieve 95%+ overall course grade
 - [ ] Have 20+ GitHub commits
 - [ ] Complete HackerRank SQL assessment
+
+### January 2026
+- [ ] Focus on API Development with FastAPI
+- [ ] Convert course models to APIs
+- [ ] Start Depression Screening API project
+- [ ] **AWS Certified AI Practitioner - Foundational** certification
+
+### February 2026
+- [ ] Complete containerization & deployment focus
+- [ ] Docker deep dive and basic Kubernetes
+- [ ] Deploy January's API to cloud (Azure ML)
+- [ ] Container orchestration and cloud services mastery
+
+### March 2026
+- [ ] MLOps fundamentals implementation
+- [ ] CI/CD with GitHub Actions setup
+- [ ] Add monitoring to deployed API
+- [ ] **AWS Certified Solutions Architect - Associate** certification
+
+### April 2026
+- [ ] Start MindfulML project (mental health chatbot)
+- [ ] React frontend + FastAPI backend development
+- [ ] Deploy on Azure with monitoring
+
+### May 2026
+- [ ] Complete MindfulML project
+- [ ] Start Real-Time Mood Tracker project
+- [ ] Time-series analysis of mood patterns
+- [ ] Predictive alerts system development
+
+### June 2026
+- [ ] Complete Real-Time Mood Tracker
+- [ ] Real-time dashboard with Streamlit
+- [ ] Start Personal Choice Project (Option A/B/C)
+
+### July 2026
+- [ ] Complete Personal Choice Project
+- [ ] Finalize portfolio of 3 production-quality projects
+- [ ] Personal blog with 5 technical posts
+- [ ] 1 project with 5+ GitHub stars target
+
+### August 2026
+- [ ] Resume optimization with quantified achievements
+- [ ] LinkedIn profile overhaul
+- [ ] Portfolio website creation
+- [ ] Start networking (virtual coffee chats)
+
+### September 2026
+- [ ] Active applications (10/week minimum)
+- [ ] Interview preparation sprint
+- [ ] Python coding practice (LeetCode)
+- [ ] **AWS Certified Machine Learning Engineer - Associate** certification
+
+### October 2026
+- [ ] Interview sprint execution
+- [ ] Negotiation preparation
+- [ ] **Target: Signed job offer by month end**
 
 ---
 
