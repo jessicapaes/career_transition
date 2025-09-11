@@ -45,7 +45,7 @@
 ## Monthly Milestones
 
 ### September 2025
-- [ ] Complete course Weeks 0-3 (Python, Pandas, SQL, Dashboards)
+- [X] Complete course Weeks 0-3 (Python, Pandas, SQL, Dashboards)
 - [ ] Establish consistent weekly study routine (5+ hours/week)
 - [ ] Set up GitHub repository with regular commits
 - [ ] Complete 8+ hours of SQL Mode Analytics tutorial
